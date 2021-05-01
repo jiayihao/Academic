@@ -11,7 +11,7 @@ role: Ph.D. of Computer Network
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tsinghua University
-  url: https://www.tsinghua.edu.cn/
+  url: https://www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet architecture and networking protocol.
