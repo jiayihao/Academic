@@ -5,7 +5,7 @@
 
 title: Yihao Jia # Website name
 baseurl: '' # Website URL
-copyright: '© {year} Yihao Jia' # Footer text, e.g. '© {year} Me'
+copyright: 'The unexamined life is not worth living © {year} Yihao Jia' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

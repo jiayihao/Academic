@@ -77,6 +77,6 @@ highlight_name: true
 
 Yihao Jia interests in the field of computer networks, especially Internet architecture, communication protocols, and privacy enhancement. Currently, Yihao is active in IETF, ITU-T standardization works.
 
-In general, Yihao is passionate to explore the science and philosophy behind the challenges.
+In th, Yihao is passionate to explore the science and philosophy behind the challenges. In practice, Yihao embraces open source communities and state-of-the-art techniques. In life, Yihao enjoys communicating and sharing 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
