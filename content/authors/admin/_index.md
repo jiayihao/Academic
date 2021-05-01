@@ -79,4 +79,4 @@ Yihao Jia specializes in the field of computer networks, especially Internet arc
 
 In general, Yihao is passionate to explore the science and philosophy behind the challenges.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
