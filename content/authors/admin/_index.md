@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Internet Architecture
+  - course: Ph.D. in Computer Network
     institution: Tsinghua University
     year: 2019
   - course: Visiting Scholar in Computer Science
