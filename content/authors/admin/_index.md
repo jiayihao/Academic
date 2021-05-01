@@ -64,18 +64,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "TESTATTESTDOTCOM"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Yihao Jia specializes in the field of computer networks, especially Internet architecture, communication protocols, and privacy enhancement. Additionally, Yihao is active in IETF, ITU-T standardization works.
+Yihao Jia interests in the field of computer networks, especially Internet architecture, communication protocols, and privacy enhancement. Currently, Yihao is active in IETF, ITU-T standardization works.
 
 In general, Yihao is passionate to explore the science and philosophy behind the challenges.
 
