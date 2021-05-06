@@ -75,8 +75,8 @@ email: ""
 highlight_name: true
 ---
 
-Yihao Jia interests in the field of computer networks, especially Internet architecture, communication protocols, and privacy enhancement. Currently, Yihao is active in IETF, ITU-T standardization works.
+Yihao Jia received his doctorate from Computer Science, Tsinghua University, P.R.China Under the direction of Prof. Ying Liu. He was a visiting scholar at Northwestern University, U.S., supervised by [Aleksandar Kuzmanovic](http://networks.cs.northwestern.edu/website/index-b.html). Yihao Jia interests in the field of computer networks, especially Internet architecture, network protocols, and privacy enhancement. Currently, Yihao is active in IETF, ITU-T standardization works.
 
-In th, Yihao is passionate to explore the science and philosophy behind the challenges. In practice, Yihao embraces open source communities and state-of-the-art techniques. In life, Yihao enjoys communicating and sharing 
+In general, Yihao is passionate to explore the science and philosophy behind the challenges. In practice, Yihao embraces open source communities and state-of-the-art techniques. In life, Yihao enjoys social networking and critical thinking. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
